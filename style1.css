@@ -1,0 +1,18 @@
+body {
+  background-image: url(Images/bkgd2.png);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media screen and (max-width: 600px) {
+  div.example {
+    font-size: 10px;
+  }
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
